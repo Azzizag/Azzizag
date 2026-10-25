@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Azzziz&fontSize=50&fontAlignY=35&desc=Informatics%20Student%20at%20Telkom%20University&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Azziz&fontSize=50&fontAlignY=35&desc=Informatics%20Student%20at%20Telkom%20University&descAlignY=58&descSize=18" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
